@@ -1,0 +1,4 @@
+enum OrderSide {
+    BUY, 
+    SELL
+};
